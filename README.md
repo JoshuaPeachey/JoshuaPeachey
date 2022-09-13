@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JoshuaPeachey
 - 👀 I’m interested in developing skills as software engineer.
-- 🌱 I’m currently studying Computer Science the University of Bath and am also learning web development from Harvards online CS50W in my spare time.
+- 🌱 I’m currently studying Computer Science the University of Bath and am also learning web development from Harvards online CS50W course in my spare time.
 - 📫 You can reach me through email: joshuajpeachey@gmail.com
